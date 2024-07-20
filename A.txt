@@ -1,2 +1,2 @@
-this is A file
+this is B file
 another line
