@@ -1,4 +1,4 @@
 this is B file
 second line
-f1 branch
+f1 branch modified
 
