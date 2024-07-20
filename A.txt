@@ -1,2 +1,4 @@
 this is B file
 first line
+second line
+
