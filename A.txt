@@ -1,2 +1,2 @@
 this is B file
-another line
+first line
